@@ -1,0 +1,24 @@
+{
+  "name": "lab4exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "101295616_COMP3123-exec04.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 101295616_COMP3123-exec04.js",
+    "dev": "nodemon 101295616_COMP3123-exec04.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "JS"
+  ],
+  "author": "Julio De Castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
